@@ -1,3 +1,12 @@
+import numpy as np
+import numpy.random as nr
+import scipy.stats as sts
+import matplotlib.pyplot as plt
+import pandas as pd
+from fitter import Fitter, get_common_distributions, get_distributions
+import seaborn as sns; sns.set()
+from pylab import plot, show, axis, subplot, xlabel, ylabel, grid
+
 class DistributionFitter:
     
     def __init__(self, data):
