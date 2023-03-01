@@ -20,4 +20,4 @@ If you use this code in any of your projects, I would really appreciate citing m
 
 Hope my fitter comes in handy for you :) 
 
-Also, I would like to thank Prof. Hadavand from Minerva University for providing the idea, guiding, and helping me out with this project. 
+Also, I would like to thank Prof. Hadavand from Minerva University for providing the idea and supporting me throughout this project. 
